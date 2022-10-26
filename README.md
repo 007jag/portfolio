@@ -81,6 +81,13 @@ You are required to submit BOTH of the following for review:
 
 ## screenshots of webpage 
 
+![](src/images/Screenshot_20221026_032721.jpg.png)
+![](src/images/Screenshot_20221026_032737.png)
+![](src/images/Screenshot_20221026_032756.png)
+
+## link to deployed application 
+
+(https://007jag.github.io/portfolio/)
 
 - - -
 
